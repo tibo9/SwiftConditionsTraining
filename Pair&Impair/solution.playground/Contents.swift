@@ -8,3 +8,13 @@ else
 {
     print("\(value) est impair.")
 }
+
+
+// BONUS
+switch isEven
+{
+    case true:
+        print("\(value) est pair.")
+    case false:
+        print("\(value) est impair.")
+}
